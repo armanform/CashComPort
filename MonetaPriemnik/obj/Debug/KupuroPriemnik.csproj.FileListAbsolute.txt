@@ -1,0 +1,9 @@
+C:\Users\arman_000\Desktop\VSProjects\KupuroPriemnik\MonetaPriemnik\bin\Debug\KupuroPriemnik.exe.config
+C:\Users\arman_000\Desktop\VSProjects\KupuroPriemnik\MonetaPriemnik\bin\Debug\KupuroPriemnik.exe
+C:\Users\arman_000\Desktop\VSProjects\KupuroPriemnik\MonetaPriemnik\bin\Debug\KupuroPriemnik.pdb
+C:\Users\arman_000\Desktop\VSProjects\KupuroPriemnik\MonetaPriemnik\obj\Debug\MonetaPriemnik.Form1.resources
+C:\Users\arman_000\Desktop\VSProjects\KupuroPriemnik\MonetaPriemnik\obj\Debug\KupuroPriemnik.Properties.Resources.resources
+C:\Users\arman_000\Desktop\VSProjects\KupuroPriemnik\MonetaPriemnik\obj\Debug\KupuroPriemnik.csproj.GenerateResource.Cache
+C:\Users\arman_000\Desktop\VSProjects\KupuroPriemnik\MonetaPriemnik\obj\Debug\KupuroPriemnik.exe
+C:\Users\arman_000\Desktop\VSProjects\KupuroPriemnik\MonetaPriemnik\obj\Debug\KupuroPriemnik.pdb
+C:\Users\arman_000\Desktop\VSProjects\KupuroPriemnik\MonetaPriemnik\obj\Debug\KupuroPriemnik.csprojResolveAssemblyReference.cache
